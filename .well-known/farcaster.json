@@ -13,18 +13,16 @@
     "homeUrl": "https://base-checker-app.vercel.app/",
     "iconUrl": "https://base-checker-app.vercel.app/icon.png",
     "splashImageUrl": "https://base-checker-app.vercel.app/splash.png",
-    "webhookUrl": "https://base-checker-app.vercel.app/",
     "splashBackgroundColor": "#0a0b0d",
-    "subtitle": "Check your Base ecosystem airdrop eligibility", 
+    "subtitle": "Check your Base ecosystem airdrop eligibility",
     "description": "Check your Base ecosystem airdrop eligibility and allocation based on on-chain activity",
-    "screenshotUrls": [], 
-    "primaryCategory": "entertainment",
+    "screenshotUrls": [],
+    "primaryCategory": "finance",
     "tags": ["airdrop", "checker", "baseapp"],
-    "heroImageUrl": "https://base-checker-app.vercel.app/preview.png", 
-    "tagline": "Check Allocation", 
-    "ogTitle": "Base Airdrop Checker", 
-    "ogDescription": "Check your Base ecosystem airdrop eligibility and allocation based on on-chain activity", 
-    "ogImageUrl": "https://base-checker-app.vercel.app/preview.png",
-    "noindex": true 
+    "heroImageUrl": "https://base-checker-app.vercel.app/preview.png",
+    "tagline": "Check Allocation",
+    "ogTitle": "Base Airdrop Checker",
+    "ogDescription": "Check your Base ecosystem airdrop eligibility and allocation based on on-chain activity",
+    "ogImageUrl": "https://base-checker-app.vercel.app/preview.png"
   }
 }
